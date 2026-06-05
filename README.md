@@ -179,12 +179,6 @@ Aspiring Data Analyst passionate about transforming data into actionable busines
 ✔ Professional Data Visualizations
 ✔ Portfolio-Ready Project
 
----
 
-## 📄 License
 
-This project is intended for educational and portfolio purposes only.
 
----
-
-### ⭐ If you found this project useful, consider giving it a star!
